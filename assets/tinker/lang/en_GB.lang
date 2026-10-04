@@ -55,3 +55,7 @@ fluid.aluminum.molten=§7Molten Aluminium
 fluid.aluminumbrass.molten=§7Molten Aluminium Brass
 
 knapsack.tooltip=§7A Rucksack to hold your things.
+
+inventory.PartChest=§fPart Chest
+toolstation.partholder=§fPart Chest
+ToolStation.PartChest.name=§fPart Chest

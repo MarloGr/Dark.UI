@@ -1069,3 +1069,7 @@ option.tcon.smeltery=§7Smeltery Status
 
 fluid.molten.unstableIngots=§7Molten Unstable Ingots
 fluid.molten.bedrockiumIngots=§7Molten Bedrockium Ingots
+
+inventory.PartChest=§fPart Chest
+toolstation.partholder=§fPart Chest
+ToolStation.PartChest.name=§fPart Chest

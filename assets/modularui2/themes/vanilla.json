@@ -1,0 +1,22 @@
+{
+  "parent": "DEFAULT",
+  "color": "#FFFFFF",
+  "textColor": "#EEEEEE",
+  "textShadow": false,
+  "button:hover": {
+    "textColor": "#161618",
+    "textShadow": false
+  },
+  "textField": {
+    "textColor": "#EEEEEE",
+    "hintColor": "#AAAAAA"
+  },
+  "toggleButton": {
+    "selectedTextColor": "#EEEEEE"
+  },
+  "toggleButton:hover": {
+    "textColor": "#161618",
+    "selectedTextColor": "#EEEEEE",
+    "textShadow": false
+  }
+}

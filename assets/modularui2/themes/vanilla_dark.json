@@ -1,0 +1,10 @@
+{
+  "parent": "vanilla",
+  "color": "#FFFFFF",
+  "textColor": "#EEEEEE",
+  "textShadow": false,
+  "scrollbar": {
+    "color": "#FFFFFF",
+    "textColor": "#EEEEEE"
+  }
+}

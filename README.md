@@ -9,12 +9,4 @@ If you use a custom font with this resourcepack it may make writing unreadable i
 
 <img src="https://imgur.com/U4YwJ3C.png" />
 
-
- If you find a missing or broken UI, bother me at ｔｙｒａｎｔ#5957
-
-
-
-  
- 
-
-
+If you find a missing or broken UI, bother me at ｔｙｒａｎｔ#5957
